@@ -11,4 +11,4 @@
 内容说明：
 天天影院汇集电影与电视剧相关内容信息，更新节奏稳定，页面结构清晰。适合作为影视浏览参考。本记录仅用于公开资料整理说明。
 
-v
+Site notes: https://deborahupddt.github.io/streaming-site-layout-documentation-archive/
